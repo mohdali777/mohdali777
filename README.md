@@ -1,11 +1,3 @@
-👋 Hey there! I'm Muhammadali
-💻 MERN Stack Developer | SQL & NoSQL | TypeScript 
-🚀 Passionate about building high-performance web applications and exploring modern technologies.
-🎯 Always eager to learn, collaborate, and contribute to open-source projects.
-
-📫 Let's connect! Check out my repos and feel free to reach out.
-
-
 # 💫 About Me:
 👋 Hey there! I'm Muhammadali<br>💻 MERN Stack Developer | SQL & NoSQL | TypeScript <br>🚀 Passionate about building high-performance web applications and exploring modern technologies.<br>🎯 Always eager to learn, collaborate, and contribute to open-source projects.<br><br>📫 Let's connect! Check out my repos and feel free to reach out.
 
